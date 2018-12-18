@@ -11,7 +11,7 @@ class AskScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text> ask </Text>
+        <Text> ask changed from git </Text>
       </View>
     );
   }
